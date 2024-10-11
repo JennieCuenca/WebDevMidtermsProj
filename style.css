@@ -38,9 +38,9 @@ img {
 }
 
 .site-header.sticky_head {
-    background: rgb(255 255 255 / 80%);
+    background-color: #f179ab57 ;
     padding: 20px 0;
-    border-color: #f2f2f2;
+    border-color: #f179abb9;
     backdrop-filter: blur(20px);
 }
 
@@ -106,7 +106,7 @@ ul {
 }
 
 .main-navigation .menu li a:hover, .main-navigation .menu li .active-menu, .main-navigation .menu .sub-menu li .active-sub-menu {
-    color: #ff8243;
+    color: #f179abb9;
     background: #f3f3f5;
     box-shadow: inset 8px 8px 12px #e2e2e2, inset -8px -8px 12px #ffffff;
 }
