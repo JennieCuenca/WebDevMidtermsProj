@@ -2,6 +2,13 @@
 /* font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif; */
 
+
+body {
+    font-family: 'Poppins', sans-serif;
+    text-rendering: optimizeLegibility !important;
+    background: #f3f3f5;
+}
+
 <style>
         /* Modal Custom Styles */
         .modal-content {
@@ -68,11 +75,6 @@ font-family: 'Poppins', sans-serif; */
         }
     </style>
 
-body {
-    font-family: 'Poppins', sans-serif;
-    text-rendering: optimizeLegibility !important;
-    background: #f3f3f5;
-}
 
 .body-fixed {
     position: fixed;
